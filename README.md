@@ -8,5 +8,7 @@ Desenvolvimento do desafio da digital innovation one, onde será criado um jogo 
 
 Inicialmente o projeto se encontra em um nível de dificuldade básico, então com o decorrer do tempo  haverá alterações para possiveis ajustes e melhorias em sua codificação
 
-:--- Let's Code ---:
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
 
